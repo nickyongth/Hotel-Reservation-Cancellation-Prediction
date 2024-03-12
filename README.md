@@ -34,26 +34,32 @@ In this section, you can find visualizations that effectively communicate the fi
 
 ### ROC Curve for Model Performance
 ![ROC Curve](https://github.com/nickyongth/images-/blob/main/ROC%20Curve.png)
+
 This ROC curve displays the Random Forest model's performance, with an AUC of 0.9617, indicating a high ability to differentiate between the classes.
 
 ### Confusion Matrix
 ![Confusion Matrix](https://github.com/nickyongth/images-/blob/main/Confusion%20Matrix.png)
+
 The confusion matrix visualization aids in understanding the model's predictive accuracy, showing the number of true positives, true negatives, false positives, and false negatives.
 
 ### Feature Importance from Random Forest
 ![Feature Importance](https://github.com/nickyongth/images-/blob/main/Feature%20Importances.png)
+
 The feature importance plot highlights the most influential factors in predicting cancellations, with 'lead time' being the most significant predictor.
 
 ### Boxplot of Lead Times by Booking Status
 ![Boxplot of Lead Times](https://github.com/nickyongth/images-/blob/main/Boxplot%20of%20Lead%20Time%20by%20Booking%20Status.png)
+
 This boxplot compares the lead times for canceled and not canceled bookings, providing insights into booking behavior.
 
 ### Distribution of Lead Times by Booking Status
 ![Distribution of Lead Times](https://github.com/nickyongth/images-/blob/main/Distribution%20of%20Lead%20Time%20by%20Booking%20Status.png)
+
 The distribution graph illustrates how lead times vary between canceled and honored reservations.
 
 ### Cancellation Rate by Lead Time
 ![Cancellation Rate by Lead Time](https://github.com/nickyongth/images-/blob/main/Cancellation%20Rate%20by%20Lead%20Time.png)
+
 This chart examines the cancellation rate in relation to different lead time categories, showing a clear trend that longer lead times are associated with higher cancellation rates.
 
 
