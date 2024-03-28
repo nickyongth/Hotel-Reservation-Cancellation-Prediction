@@ -1,5 +1,7 @@
 # Hotel Reservation Cancellation Prediction
 
+![Hotel](https://github.com/nickyongth/images-/blob/main/Hotel.jpeg)
+
 ## Introduction
 This project explores the challenging domain of hotel reservation status prediction, utilizing a comprehensive dataset from two distinct hotels in Portugal. The objective is to apply data analytics techniques to predict whether a hotel reservation will be canceled or not, a crucial aspect for effective hotel management and revenue optimization. This analysis utilizes various binary classification models, leveraging 36,275 data points across 19 insightful features.
 
